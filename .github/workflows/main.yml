@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
 jobs:
   build:
-    name: MacRDP
+    name: Mac-test-Env
     runs-on: macos-latest
     
     steps:                 
